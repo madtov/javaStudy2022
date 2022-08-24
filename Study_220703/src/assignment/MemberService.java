@@ -11,8 +11,8 @@ public class MemberService {
     }
 
     void logout (String id) {
-        if ("hong".equals(id)) {
-            System.out.println("로그아웃되었습니다.");
+                if ("hong".equals(id)) {
+                    System.out.println("로그아웃되었습니다.");
         }
     }
 

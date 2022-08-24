@@ -37,7 +37,8 @@ public class BankApplication {
         System.out.println("계좌생성");
         System.out.println("---------");
         System.out.println("계좌번호 : " + accountArray);
-        System.out.println("계좌주 : " );
+        System.out.println("계좌주 : " + scanner.nextInt());
+ //       scanner.nextInt() = String.ano;
     }
 
     //계좌 목록보기
